@@ -1,7 +1,6 @@
 # Shopping-mart
 A simple E-commerce website for buying and selling Fashion products.
 
-
 # Features
 1.Sign up and login
 2.Responsive UI
